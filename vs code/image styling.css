@@ -1,0 +1,11 @@
+CSS (styles.css):
+css
+/* Apply styles to the image */
+.styled-image {
+    display: block;
+    margin: 0 auto; /* Center the image horizontally */
+    width: 50%; /* Adjust the width of the image */
+    border-radius: 10px; /* Add rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Add a shadow */
+
+
